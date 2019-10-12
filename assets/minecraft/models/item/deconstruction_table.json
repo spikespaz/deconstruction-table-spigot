@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "block/deconstruction_table_front",
+        "down": "block/iron_block",
+        "up": "block/deconstruction_table_top",
+        "north": "block/deconstruction_table_front",
+        "east": "block/deconstruction_table_side",
+        "south": "block/deconstruction_table_side",
+        "west": "block/deconstruction_table_front"
+    }
+}
