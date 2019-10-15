@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/firework_rocket"
+        },
+    "overrides": [
+        {"predicate": {"custom_model_data": 10000100}, "model": "item/deconstruction_table"}
+    ]
+}
